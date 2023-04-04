@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lyDiary</string>
+    <string name="edit_message"></string>
+    <string name="button_send">As Event</string>
+    <string name="button_finished">Finished</string>
+    <string name="button_suspended">Suspended</string>
+    <string name="button_memo">As Memo</string>
+</resources>
